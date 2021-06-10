@@ -3,7 +3,6 @@
 $(document).ready(function(){
 
     let title = $("#title")
-    console.log(title.html());
     title.html("JQuery JavaScript")
 
     let subtitle = $("#subtitle")
